@@ -7,7 +7,6 @@ URL: http://www.lcdf.org/type/
 Group: Publishing
 License: GPL
 BuildRequires: tetex-devel
-BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
 %description 
 The LCDF Typetools package contains several programs for manipulating
