@@ -3,7 +3,7 @@ Name: lcdf-typetools
 Version: 2.59
 Release: %mkrel 5
 Source: http://www.lcdf.org/type/%{name}-%{version}.tar.bz2
-URL: http://www.lcdf.org/type/
+URL: https://www.lcdf.org/type/
 Group: Publishing
 License: GPL
 BuildRequires: tetex-devel
