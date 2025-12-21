@@ -6,6 +6,11 @@ Source: http://www.lcdf.org/type/%{name}-%{version}.tar.bz2
 URL: https://www.lcdf.org/type/
 Group: Publishing
 License: GPL
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: tetex-devel
 BuildRoot: %{_tmppath}/%{name}-%{version}-root
 
