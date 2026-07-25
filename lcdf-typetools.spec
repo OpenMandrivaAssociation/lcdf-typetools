@@ -1,7 +1,7 @@
 Summary: Programs for manipulating PostScript Type 1 fonts
 Name: lcdf-typetools
 Version: 2.59
-Release: %mkrel 5
+Release: 6
 Source: http://www.lcdf.org/type/%{name}-%{version}.tar.bz2
 URL: https://www.lcdf.org/type/
 Group: Publishing
@@ -73,21 +73,21 @@ rm -rf $RPM_BUILD_ROOT
 - Release: 2.59.
 - Import lcdf-typetools
 
-* Thu Jan 26 2006 Giusepp eGhibò <ghibo@mandriva.com> 2.37-1mdk
+* Thu Jan 26 2006 Giusepp eGhibï¿½ <ghibo@mandriva.com> 2.37-1mdk
 - Release: 2.37.
 
-* Sat Aug 06 2005 Giuseppe Ghibò <ghibo@mandriva.com> 2.34-1mdk
+* Sat Aug 06 2005 Giuseppe Ghibï¿½ <ghibo@mandriva.com> 2.34-1mdk
 - Release: 2.34.
 
-* Sat Feb 12 2005 Giuseppe Ghibò <ghibo@mandrakesoft.com> 2.20-1mdk
+* Sat Feb 12 2005 Giuseppe Ghibï¿½ <ghibo@mandrakesoft.com> 2.20-1mdk
 - Release: 2.20.
 
-* Sat Aug 28 2004 Giuseppe Ghibò <ghibo@mandrakesoft.com> 2.12-1mdk
+* Sat Aug 28 2004 Giuseppe Ghibï¿½ <ghibo@mandrakesoft.com> 2.12-1mdk
 - Release: 2.12.
 
-* Tue Aug 10 2004 Giuseppe Ghibò <ghibo@mandrakesoft.com> 2.8-1mdk
+* Tue Aug 10 2004 Giuseppe Ghibï¿½ <ghibo@mandrakesoft.com> 2.8-1mdk
 - Release: 2.8.
 
-* Tue Jul 20 2004 Giuseppe Ghibò <ghibo@mandrakesoft.com> 2.6-1mdk
+* Tue Jul 20 2004 Giuseppe Ghibï¿½ <ghibo@mandrakesoft.com> 2.6-1mdk
 - Release: 2.6.
 
